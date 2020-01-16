@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/UbecDota/static/css/main.d3b9f4d2.chunk.css",
+    "main.js": "/UbecDota/static/js/main.18895515.chunk.js",
+    "main.js.map": "/UbecDota/static/js/main.18895515.chunk.js.map",
+    "runtime-main.js": "/UbecDota/static/js/runtime-main.eb91a771.js",
+    "runtime-main.js.map": "/UbecDota/static/js/runtime-main.eb91a771.js.map",
+    "static/css/2.8c1a6027.chunk.css": "/UbecDota/static/css/2.8c1a6027.chunk.css",
+    "static/js/2.59d67a19.chunk.js": "/UbecDota/static/js/2.59d67a19.chunk.js",
+    "static/js/2.59d67a19.chunk.js.map": "/UbecDota/static/js/2.59d67a19.chunk.js.map",
+    "index.html": "/UbecDota/index.html",
+    "precache-manifest.25895f07ba71ecc2e1182c4ff12acfe3.js": "/UbecDota/precache-manifest.25895f07ba71ecc2e1182c4ff12acfe3.js",
+    "service-worker.js": "/UbecDota/service-worker.js",
+    "static/css/2.8c1a6027.chunk.css.map": "/UbecDota/static/css/2.8c1a6027.chunk.css.map",
+    "static/css/main.d3b9f4d2.chunk.css.map": "/UbecDota/static/css/main.d3b9f4d2.chunk.css.map",
+    "static/js/2.59d67a19.chunk.js.LICENSE": "/UbecDota/static/js/2.59d67a19.chunk.js.LICENSE",
+    "static/media/semantic.less": "/UbecDota/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb91a771.js",
+    "static/css/2.8c1a6027.chunk.css",
+    "static/js/2.59d67a19.chunk.js",
+    "static/css/main.d3b9f4d2.chunk.css",
+    "static/js/main.18895515.chunk.js"
+  ]
+}
